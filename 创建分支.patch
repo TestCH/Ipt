@@ -1,0 +1,18 @@
+Index: IptFlask/login.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- IptFlask/login.py	(date 1557026633000)
++++ IptFlask/login.py	(date 1557027603705)
+@@ -2,4 +2,7 @@
+ # -*- coding: utf-8 -*-
+ # @Time    : 2019/5/5 11:21
+ # @Author  : cheng.h
+-# @File    : login.py
+\ No newline at end of file
++# @File    : login.py
++
++if __name__ == '__main__':
++    print "11"
+\ No newline at end of file
